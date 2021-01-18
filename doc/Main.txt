@@ -1,5 +1,5 @@
 copy antivirus.go and copy and paste this    
 func main(){
     var malware = []string {yourlist}
-    scan_file(file,x)
+    scan_file(file,malware)
 }
